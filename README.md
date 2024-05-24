@@ -1,4 +1,4 @@
-###Hello! My name is Artem Nikitin
+Hello! My name is Artem Nikitin
 -------------
 
 I'm a student at St. Petersburg State University of Aerospace Instrumentation.
