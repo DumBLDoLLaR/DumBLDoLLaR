@@ -1,16 +1,25 @@
-## Hi there 👋
+###Hello! My name is Artem Nikitin
+-------------
 
-<!--
-**DumBLDoLLaR/DumBLDoLLaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at St. Petersburg State University of Aerospace Instrumentation.
 
-Here are some ideas to get you started:
+Interests
+-------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I'm not coding, you can find me:
+
+Playing videogames(I'm not deadinside, chill out)
+Writing music
+Programming
+
+
+Get in Touch
+----------------
+
+Want to connect? Find me on:
+
+*[VK](https://vk.com/fellin_g00d)
+*[Telegram](https://t.me/soloegotrippin)
+
+Feel free to reach out, and let's chat about coding, videogames, or life in general!
+
