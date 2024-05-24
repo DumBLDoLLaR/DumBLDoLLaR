@@ -1,15 +1,15 @@
 Hello! My name is Artem Nikitin
 -------------
 
-I'm a student at St. Petersburg State University of Aerospace Instrumentation.
+I'm a GUAP student, guap maker. Staying disciplined
 
 Interests
 -------------
 
 When I'm not coding, you can find me:
 
-Playing videogames(I'm not deadinside, chill out)
-Writing music
+CS(I'm not deadinside, chill out)
+Music making
 Programming
 
 
